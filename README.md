@@ -1,6 +1,6 @@
 # nba
 
-clone
-npm install
-composer install
-npm run watch
+clone </br>
+npm install </br>
+composer install </br>
+npm run watch </br>
